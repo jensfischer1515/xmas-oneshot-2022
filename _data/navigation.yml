@@ -1,0 +1,11 @@
+# Belongs at: /_data/navigation.yml
+
+- title: "Kaer Maga - Stadt der Fremden"
+  url: /
+  sublinks:
+    - title: "Kaer Maga"
+      url: /kaer-maga
+    - title: "Düsterwacht"
+      url: /duskwarden
+    - title: "Zwielichtpfad"
+      url: /twilight-path
