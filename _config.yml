@@ -1,8 +1,12 @@
-remote_theme: pages-themes/cayman@v0.2.0 # https://github.com/pages-themes/cayman
-#remote_theme: fongandrew/hydeout #https://github.com/fongandrew/hydeout
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: XMas OneShot 2022
 description: Kaer Maga, Stadt der Fremden
+lang: de
 show_downloads: false
 baseurl: /
+theme_color: '#333333'
+permalink: pretty
+fixed_navbar: top
+#hero_image: /path/to/image.jpg

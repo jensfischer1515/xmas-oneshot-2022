@@ -1,14 +1,20 @@
 # Belongs at: /_data/navigation.yml
 
-- title: "Kaer Maga - Stadt der Fremden"
-  url: /
-  sublinks:
-    - title: "Die Stadt"
-      url: /kaer-maga
-    - title: "Die Dämmerwache"
-      url: /duskwardens
-    - title: "Der Zwielichtpfad"
-      url: /halflight-path
-    - title: "Die Unterstadt"
-      url: /undercity
-  
+- name: XMas OneShot
+  link: /index
+  dropdown:
+    - name: Logistik
+      link: /index
+    - name: Helden
+      link: /heroes
+- name: Kaer Maga
+  link: /kaer-maga
+  dropdown: 
+    - name: Die Stadt der Fremden
+      link: /kaer-maga
+    - name: Die Dämmerwache
+      link: /duskwardens
+    - name: Der Zwielichtpfad
+      link: /halflight-path
+    - name: Die Unterstadt
+      link: /undercity
