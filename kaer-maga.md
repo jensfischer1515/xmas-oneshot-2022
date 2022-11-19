@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Die Stadt
+title: Die Stadt der Fremden
 subtitle: Worin wir von der Torheit des unbegleiteten Erkunders erfahren
 #hero_image: /path/to/image.jpg
 #hero_height: is-fullwidth
