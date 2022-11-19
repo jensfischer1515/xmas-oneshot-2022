@@ -6,7 +6,7 @@ description: Kaer Maga, Stadt der Fremden
 lang: de
 show_downloads: false
 baseurl: /
-theme_color: '#333333'
+theme_color: '#32a6a8'
 permalink: pretty
 fixed_navbar: top
 #hero_image: /path/to/image.jpg

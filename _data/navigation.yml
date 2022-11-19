@@ -1,10 +1,10 @@
 # Belongs at: /_data/navigation.yml
 
-- name: XMas OneShot
-  link: /index
+- name: Setup
+  link: /setup
   dropdown:
     - name: Logistik
-      link: /index
+      link: /logistics
     - name: Helden
       link: /heroes
 - name: Kaer Maga
