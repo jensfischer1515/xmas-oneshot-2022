@@ -1,0 +1,17 @@
+style: is-light
+height: is-medium
+items:
+  - title: Setup
+    subtitle: Alles, was ihr rund um den OneShot wissen müsst
+    icon: fa-thin fa-dice-d20
+    description: >
+      Wann spielen wir? Und wo? Wer macht mit?
+    call_to_action_name: Call to action 1
+    call_to_action_link: /setup
+  - title: Kaer Maga
+    subtitle: Hintergrundwissen rund um die Stadt, in der wir spielen werden
+    icon: fa-dungeon
+    description: >
+      Was zeichnet die Stadt und ihre Bewohner aus? Welche Geheimnisse locken?
+    call_to_action_name: Kaer Maga
+    call_to_action_link: /kaer-maga
