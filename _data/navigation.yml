@@ -3,9 +3,12 @@
 - title: "Kaer Maga - Stadt der Fremden"
   url: /
   sublinks:
-    - title: "Kaer Maga"
+    - title: "Die Stadt"
       url: /kaer-maga
-    - title: "Düsterwacht"
-      url: /duskwarden
-    - title: "Zwielichtpfad"
-      url: /twilight-path
+    - title: "Die Dämmerwache"
+      url: /duskwardens
+    - title: "Der Zwielichtpfad"
+      url: /halflight-path
+    - title: "Die Unterstadt"
+      url: /undercity
+  
