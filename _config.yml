@@ -10,3 +10,4 @@ theme_color: '#32a6a8'
 permalink: pretty
 fixed_navbar: top
 #hero_image: /path/to/image.jpg
+hero_height: is-small

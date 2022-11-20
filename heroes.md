@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Die Helden
+subtitle: Regeln zur Charaktererschaffung
 ---
 
 Ihr seid die Helden!
@@ -8,7 +9,7 @@ Ihr seid die Helden!
 * Pathfinder 1E
 * Core Rules, Advanced Players Guide, ...
 * Stufe 7
-* Gesinnung: RG, NG, CG, RN, N, CN
+* Gesinnung: RG, NG, CG, RN, N, CN (kein RB, NB, CB)
 * 20-point buy
 * Vermögen: 23.500 gp
 

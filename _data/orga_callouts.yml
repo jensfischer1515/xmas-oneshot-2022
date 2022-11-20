@@ -8,7 +8,7 @@ items:
       Wann spielen wir? Und wo? Wer macht mit?
     call_to_action_name: Logistik
     call_to_action_link: /logistics
-  - title: Helden
+  - title: Die Helden
     subtitle: Regeln zur Charaktererschaffung
     icon: fa-address-card
     description: >
