@@ -10,7 +10,7 @@ items:
     call_to_action_link: /kaer-maga
   - title: Die Dämmerwache
     subtitle: Verteidiger und Kundschafter der Stadt
-    icon: fa-swords
+    icon: fa-hands-helping
     description: >
       Diese Männer und Frauen halten den Kasten sauber.
     call_to_action_name: Die Dämmerwache
