@@ -1,0 +1,17 @@
+style: is-light
+height: is-medium
+items:
+  - title: Logistik
+    subtitle: Wann und wo?
+    icon: fa-clock
+    description: >
+      Wann spielen wir? Und wo? Wer macht mit?
+    call_to_action_name: Logistik
+    call_to_action_link: /logistics
+  - title: Helden
+    subtitle: Regeln zur Charaktererschaffung
+    icon: fa-address-card
+    description: >
+      Was du zum Erschaffen deines Helden wissen musst.
+    call_to_action_name: Helden
+    call_to_action_link: /heores
