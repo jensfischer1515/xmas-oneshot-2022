@@ -2,6 +2,7 @@
 layout: page
 title: Die Helden
 subtitle: Regeln zur Charaktererschaffung
+hero_height: is-small
 ---
 
 Ihr seid die Helden!
