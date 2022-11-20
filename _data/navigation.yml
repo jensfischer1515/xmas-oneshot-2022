@@ -7,8 +7,8 @@
       link: /logistics
     - name: Helden
       link: /heroes
-- name: Kaer Maga
-  link: /kaer-maga
+- name: Setting
+  link: /setting
   dropdown: 
     - name: Die Stadt der Fremden
       link: /kaer-maga

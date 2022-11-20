@@ -2,7 +2,7 @@ remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: XMas OneShot 2022
-description: Kaer Maga, Stadt der Fremden
+description: Abenteuer in Kaer Maga, Stadt der Fremden
 lang: de
 show_downloads: false
 baseurl: /

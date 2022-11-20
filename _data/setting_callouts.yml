@@ -1,0 +1,31 @@
+style: is-light
+height: is-medium
+items:
+  - title: Kaer Maga
+    subtitle: Die Stadt der Fremden
+    icon: fa-city
+    description: >
+      Willkommen in der Stadt der Fremden, auch bekannt als der Asylstein, das Sechseck oder die Stadt an der Klippe.
+    call_to_action_name: Kaer Maga
+    call_to_action_link: /kaer-maga
+  - title: Die Dämmerwache
+    subtitle: Die Verteidiger der Stadt
+    icon: fa-helmet-battle
+    description: >
+      Diese Männer und Frauen halten den Kasten sauber.
+    call_to_action_name: Die Dämmerwache
+    call_to_action_link: /duskwardens
+  - title: Der Zwielichtpfad
+    subtitle: Vielleicht der schnellste Weg in die Stadt
+    icon: fa-archway
+    description: >
+      Ist es dir zwei Goldmünzen wert, abseits der normalen Strassen zu reisen?
+    call_to_action_name: Der Zwielichtpfad
+    call_to_action_link: /halflight-path
+  - title: Die Unterstadt
+    subtitle: Vielleicht der schnellste Weg in die Stadt
+    icon: fa-dungeon
+    description: >
+      Die Keller und was noch darunter liegt
+    call_to_action_name: Der Zwielichtpfad
+    call_to_action_link: /halflight-path
