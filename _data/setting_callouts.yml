@@ -9,8 +9,8 @@ items:
     call_to_action_name: Kaer Maga
     call_to_action_link: /kaer-maga
   - title: Die Dämmerwache
-    subtitle: Die Verteidiger der Stadt
-    icon: fa-helmet-battle
+    subtitle: Verteidiger und Kundschafter der Stadt
+    icon: fa-swords
     description: >
       Diese Männer und Frauen halten den Kasten sauber.
     call_to_action_name: Die Dämmerwache
@@ -19,13 +19,13 @@ items:
     subtitle: Vielleicht der schnellste Weg in die Stadt
     icon: fa-archway
     description: >
-      Ist es dir zwei Goldmünzen wert, abseits der normalen Strassen zu reisen?
+      Ist es dir zwei Goldmünzen wert, abseits der Strassen geführt zu werden?
     call_to_action_name: Der Zwielichtpfad
     call_to_action_link: /halflight-path
   - title: Die Unterstadt
-    subtitle: Vielleicht der schnellste Weg in die Stadt
+    subtitle: Die Tunnel unter der Stadt
     icon: fa-dungeon
     description: >
-      Die Keller und was noch darunter liegt
-    call_to_action_name: Der Zwielichtpfad
-    call_to_action_link: /halflight-path
+      Die Keller, die Barrikaden, die Tiefen Hallen und noch tiefere Tiefen...
+    call_to_action_name: Die Unterstadt
+    call_to_action_link: /undercity
