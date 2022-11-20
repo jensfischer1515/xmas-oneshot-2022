@@ -1,7 +1,7 @@
 # Belongs at: /_data/navigation.yml
 
-- name: Setup
-  link: /setup
+- name: Organisation
+  link: /orga
   dropdown:
     - name: Logistik
       link: /logistics
