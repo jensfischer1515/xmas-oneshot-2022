@@ -14,4 +14,4 @@ items:
     description: >
       Was du zum Erschaffen deines Helden wissen musst.
     call_to_action_name: Helden
-    call_to_action_link: /heores
+    call_to_action_link: /heroes
