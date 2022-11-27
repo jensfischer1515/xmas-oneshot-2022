@@ -9,6 +9,7 @@ Ihr seid die Helden!
 
 * Pathfinder 1E
 * Core Rules, Advanced Players Guide, ...
+* Rassen bis einschließlich [20 race points](https://www.d20pfsrd.com/races/)
 * Stufe 7
 * Gesinnung: RG, NG, CG, RN, N, CN (kein RB, NB, CB)
 * 20-point buy
